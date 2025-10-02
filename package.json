@@ -1,0 +1,18 @@
+{
+  "name": "reto_sqa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "test": "cucumber-js"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@cucumber/cucumber": "^12.2.0",
+    "@playwright/test": "^1.55.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
