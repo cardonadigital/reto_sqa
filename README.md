@@ -46,5 +46,6 @@ src/
 npm run test
 ```
 
-
+## Guide video
+https://youtu.be/emafMI_4l5g
 
