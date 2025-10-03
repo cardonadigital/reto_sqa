@@ -27,3 +27,24 @@ Automated test suite for the **JQuery Datepicker** widget using **Playwright** a
 
 ## ⚡ Project Structure
 
+```
+src/
+├─ pages/
+│ └─ homePage.ts # POM for datepicker
+├─ steps/
+│ └─ home.steps.ts # Step definitions
+├─ features/
+│ └─ datepicker.feature # Feature file
+├─ config/
+│ └─ world.ts # Custom World for Playwright
+└─ utils/
+└─ hooks.ts # Before/After hooks
+```
+## 📝 Running Tests
+
+```
+npm install
+```
+
+
+
